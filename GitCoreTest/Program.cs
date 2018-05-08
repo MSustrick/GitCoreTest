@@ -8,6 +8,7 @@ namespace GitCoreTest
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Master Check in 1");
+            Console.WriteLine("Branch ! Check in");
             Console.ReadLine();
         }
     }
